@@ -1,0 +1,376 @@
+cik,company_name,ticker,ipo_date,ipo_year,founding_year,years_to_ipo,total_pre_ipo_capital_m,num_rounds_detected,capital_efficiency_m,pre_ipo_trial_count,pre_ipo_max_phase_rank,pre_ipo_conditions_targeted,pipeline_concentration,pre_ipo_had_terminated_or_withdrawn,pre_ipo_patent_count,ip_density,pubmed_pre_ipo_count,bucket,exit_reason,exit_subtype,sic,sic_description
+0001526119,Verastem Inc,VSTM,2012-01-26,2012.0,2010.0,2.0,,0,,2,1.0,4,0.5,False,3,1.5,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001735438,Meiragtx Holdings Plc,MGTX,2018-06-08,2018.0,2015.0,3.0,97.6,1,32.53,1,1.0,3,0.33,False,0,0.0,2,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001382101,Sutro Biopharma Inc,STRO,2018-09-26,2018.0,2003.0,15.0,22.0,1,1.47,1,1.0,8,0.12,False,30,30.0,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001205922,Vaccinex Inc,VCNX,2018-08-09,2018.0,2001.0,17.0,,0,,4,2.0,4,1.0,False,33,8.25,20,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001819576,Liquidia Technologies Inc,LQDA,2018-07-26,2018.0,2004.0,14.0,,0,,3,3.0,3,1.0,False,17,5.667,9,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001737953,Replimune Group Inc,REPL,2018-07-20,2018.0,2015.0,3.0,55.0,2,18.33,1,2.0,4,0.25,False,4,4.0,13,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001658247,Crinetics Pharmaceuticals Inc,CRNX,2018-07-18,2018.0,2008.0,10.0,93.5,2,9.35,1,1.0,1,1.0,False,4,4.0,3,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001638097,Entera Bio Ltd,ENTX,2018-06-28,2018.0,2010.0,8.0,,0,,4,2.0,3,1.33,False,4,1.0,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001730463,Autolus Therapeutics Ltd,AUTL,2018-06-21,2018.0,2014.0,4.0,,0,,0,,0,,False,0,,6,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001660334,Verrica Pharmaceuticals Inc,VRCA,2018-06-15,2018.0,2013.0,5.0,176.0,3,35.2,4,3.0,13,0.31,False,3,0.75,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001727196,Scholar Rock Holding Corp,SRRK,2018-05-24,2018.0,2012.0,6.0,47.0,1,7.83,0,,0,,False,10,inf,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001468748,Kodiak Sciences Inc,KOD,2018-10-04,2018.0,2009.0,9.0,,0,,0,,0,,False,4,inf,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001730430,Kiniksa Pharmaceuticals LTD,KNSA,2018-05-24,2018.0,2015.0,3.0,,0,,1,2.0,1,1.0,False,5,5.0,3,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001595248,Genprex,GNPX,2018-03-29,2018.0,2009.0,9.0,3.1,1,0.34,1,2.0,1,1.0,True,0,0.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001724521,Arcus Biosciences Inc,RCUS,2018-03-15,2018.0,2015.0,3.0,107.4,3,35.8,0,,0,,False,3,inf,236,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001720893,Bioxcel Therapeutics Inc,BTAI,2018-03-08,2018.0,2017.0,1.0,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001570562,Evolus Inc,EOLS,2018-02-08,2018.0,2012.0,6.0,15.0,1,2.5,4,3.0,1,4.0,False,0,0.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001684693,Sol-Gel Technologies Ltd,SLGL,2018-02-01,2018.0,1997.0,21.0,,0,,3,2.0,3,1.0,True,17,5.667,47,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001707502,Solid Biosciences LLC,SLDB,2018-01-26,2018.0,2013.0,5.0,,0,,1,2.0,1,1.0,False,0,0.0,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001645460,Cue Biopharma Inc,CUE,2018-01-02,2018.0,2014.0,4.0,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001714899,Denali Therapeutics Inc,DNLI,2017-12-08,2017.0,2015.0,2.0,300.4,2,150.2,2,1.0,1,2.0,False,8,4.0,52,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001708688,InflaRx NV (Fireman BV?),IFRX,2017-11-08,2017.0,2007.0,10.0,,0,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001701108,Spero Therapeutics Inc,SPRO,2017-11-02,2017.0,2013.0,4.0,0.1,2,0.02,2,1.0,1,2.0,False,0,0.0,40,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001649904,Rhythm Pharmaceuticals Inc,RYTM,2017-10-05,2017.0,2013.0,4.0,81.0,1,20.25,9,3.0,11,0.82,False,16,1.778,1363,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001655759,Arvinas Holding Co LLC,ARVN,2018-09-27,2018.0,2015.0,3.0,15.3,1,5.1,0,,0,,False,9,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001746466,Equillium,EQ,2018-10-12,2018.0,2017.0,1.0,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001711279,Krystal Biotech Inc,KRYS,2017-09-20,2017.0,2015.0,2.0,7.0,1,3.5,0,,0,,False,1,inf,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001729427,CNS Pharmaceuticals Inc,CNSP,2019-11-08,2019.0,2017.0,2.0,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001563577,Galera Therapeutics Inc,GRTX,2019-11-07,2019.0,2012.0,7.0,,0,,12,3.0,10,1.2,False,5,0.417,75,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001759138,Cabaletta Bio Inc,CABA,2019-10-25,2019.0,2017.0,2.0,50.0,2,25.0,0,,0,,False,0,,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001783183,Phathom Pharmaceuticals Inc,PHAT,2019-10-25,2019.0,2018.0,1.0,,0,,0,,0,,False,0,,7,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001706431,Vir Biotechnology Inc,VIR,2019-10-11,2019.0,2016.0,3.0,327.6,2,109.2,2,2.0,2,1.0,False,1,0.5,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001776985,BioNTech SE,BNTX,2019-10-10,2019.0,2008.0,11.0,,0,,3,1.0,9,0.33,False,44,14.667,0,stalled_filing,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001781983,Aprea Therapeutics Inc,APRE,2019-10-03,2019.0,2003.0,16.0,62.3,2,3.89,6,3.0,7,0.86,True,0,0.0,39,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001759425,Mirum Pharmaceuticals Inc,MIRM,2019-07-18,2019.0,2018.0,1.0,103.8,1,103.8,20,3.0,16,1.25,True,0,0.0,1,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001680581,Fulcrum Therapeutics Inc,FULC,2019-07-18,2019.0,2015.0,4.0,105.1,2,26.28,0,,0,,False,2,inf,35,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001743881,BridgeBio Pharma Inc,BBIO,2019-06-27,2019.0,2015.0,4.0,501.7,1,125.42,0,,0,,False,0,,2,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001623526,Stoke Therapeutics Inc,STOK,2019-06-19,2019.0,2014.0,5.0,90.0,2,18.0,0,,0,,False,2,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001581280,Twist Bioscience Corp,TWST,2018-10-31,2018.0,2013.0,5.0,,0,,0,,0,,False,25,inf,25,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001761612,Bicycle Therapeutics Ltd,BCYC,2019-05-23,2019.0,2009.0,10.0,,0,,0,,0,,False,8,inf,15,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001676725,Ideaya Biosciences Inc,IDYA,2019-05-23,2019.0,2015.0,4.0,,0,,0,,0,,False,0,,8,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001661059,NextCure Inc,NXTC,2019-05-09,2019.0,2015.0,4.0,93.4,2,23.35,1,2.0,9,0.11,False,0,0.0,3,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001408443,Milestone Pharmaceuticals Inc,MIST,2019-05-09,2019.0,2003.0,16.0,148.8,1,9.3,4,3.0,2,2.0,True,0,0.0,194,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001563880,Trevi Therapeutics Inc,TRVI,2019-05-07,2019.0,2011.0,8.0,50.5,3,6.31,7,3.0,7,1.0,False,5,0.714,15,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001357874,Precision Biosciences Inc,DTIL,2019-03-28,2019.0,2006.0,13.0,220.0,2,16.92,0,,0,,False,23,inf,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001728117,Gossamer Bio Inc,GOSS,2019-02-08,2019.0,2003.0,16.0,310.0,2,19.38,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001653087,Alector Inc,ALEC,2019-02-07,2019.0,1997.0,22.0,133.2,3,6.05,2,1.0,3,0.67,False,9,4.5,10,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001711754,Inmune Bio Inc,INMB,2019-02-04,2019.0,1972.0,47.0,,0,,0,,0,,False,0,,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001723980,China Sxt Pharms Inc,SXTC,2019-01-04,2019.0,2006.0,13.0,,0,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001682852,Moderna Inc,MRNA,2018-12-07,2018.0,2010.0,8.0,,0,,0,,0,,False,49,inf,107,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001709626,NuCana plc,NCNA,2017-09-28,2017.0,1997.0,20.0,,0,,0,,0,,False,13,inf,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001737287,Allogene Therapeutics Inc.,ALLO,2018-10-11,2018.0,2017.0,1.0,600.0,1,600.0,0,,0,,False,1,inf,4,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001704292,Zai Lab Ltd,ZLAB,2017-09-20,2017.0,2013.0,4.0,,0,,4,3.0,6,0.67,False,0,0.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001590560,uniQure BV,QURE,2014-02-05,2014.0,1998.0,16.0,,0,,1,2.0,1,1.0,False,7,7.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001512762,Coherus Biosciences Inc,CHRS,2014-11-06,2014.0,2010.0,4.0,42.6,2,10.65,0,,0,,False,7,inf,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001582313,Xenon Pharmaceuticals Inc,XENE,2014-11-05,2014.0,1996.0,18.0,,0,,5,2.0,5,1.0,False,85,17.0,42,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001612940,ProQR Therapeutics BV,PRQR,2014-09-18,2014.0,2012.0,2.0,,0,,0,,0,,False,1,inf,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001393434,Ocular Therapeutix Inc,OCUL,2014-07-24,2014.0,2006.0,8.0,23.8,2,2.98,8,3.0,9,0.89,False,0,0.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001598646,Minerva Neurosciences Inc,NERV,2014-07-01,2014.0,2007.0,7.0,,0,,0,,0,,False,1,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001437402,Ardelyx Inc,ARDX,2014-06-19,2014.0,2007.0,7.0,,0,,14,3.0,11,1.27,False,8,0.571,5,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001341235,Aldeyra Therapeutics Inc,ALDX,2014-05-02,2014.0,2004.0,10.0,30.0,2,3.0,0,,0,,False,4,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001178253,SCYNEXIS Inc,SCYX,2014-05-02,2014.0,1999.0,15.0,2.8,1,0.19,2,2.0,2,1.0,False,13,6.5,35,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001515673,Ultragenyx Pharmaceutical,RARE,2014-01-31,2014.0,2010.0,4.0,,0,,9,2.0,12,0.75,True,4,0.444,3,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001626878,XBiotech Inc,XBIT,2015-04-15,2015.0,2005.0,10.0,,0,,0,,0,,False,17,inf,5,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001326732,Xencor Inc,XNCR,2013-12-02,2013.0,1997.0,16.0,146.8,2,9.18,2,1.0,4,0.5,False,93,46.5,44,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001503802,Karyopharm Therapeutics,KPTI,2013-11-06,2013.0,2008.0,5.0,,0,,3,1.0,3,1.0,False,7,2.333,3,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001125345,MacroGenics,MGNX,2013-10-10,2013.0,2000.0,13.0,12.0,1,0.92,13,3.0,20,0.65,True,61,4.692,16,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001434316,Fate Therapeutics,FATE,2013-10-01,2013.0,2007.0,6.0,24.1,2,4.02,3,2.0,7,0.43,True,7,2.333,217,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001434868,Esperion Therapeutics Inc,ESPR,2013-06-25,2013.0,1998.0,15.0,17.0,1,1.13,6,2.0,6,1.0,False,41,6.833,19,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001177648,Enanta Pharmaceuticals Inc,ENTA,2013-03-20,2013.0,1995.0,18.0,,0,,2,2.0,2,1.0,False,146,73.0,16,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001555280,Zoetis Inc,ZTS,2013-01-31,2013.0,1952.0,61.0,,0,,0,,0,,False,52,inf,27,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001479419,Kala Pharmaceuticals Inc,KALA,2017-07-20,2017.0,2009.0,8.0,67.9,2,8.49,7,3.0,7,1.0,False,24,3.429,221,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001612042,Ascendis Pharma A/S,ASND,2015-01-28,2015.0,2006.0,9.0,,0,,4,2.0,4,1.0,True,21,5.25,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001517022,Akebia Therapeutics Inc,AKBA,2014-03-20,2014.0,2007.0,7.0,5.0,1,0.71,5,2.0,4,1.25,False,9,1.8,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001674416,CRISPR Therapeutics AG,CRSP,2016-10-19,2016.0,2013.0,3.0,144.6,1,48.2,0,,0,,False,0,,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001395937,Syndax Pharmaceuticals Inc,SNDX,2016-03-03,2016.0,2005.0,11.0,49.0,2,4.45,9,2.0,14,0.64,True,1,0.111,3,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001636651,Ovid Therapeutics Inc,OVID,2017-05-05,2017.0,2014.0,3.0,75.6,2,25.2,0,,0,,False,10,inf,14,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001607678,Viking Therapeutics Inc,VKTX,2015-04-29,2015.0,2012.0,3.0,,0,,0,,0,,False,0,,21,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001668243,Urogen Pharma Ltd,URGN,2017-05-04,2017.0,2004.0,13.0,,0,,9,3.0,14,0.64,True,7,0.778,4,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001937653,Zymeworks Inc,ZYME,2017-04-28,2017.0,2003.0,14.0,,0,,0,,0,,False,35,inf,6,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001677940,Beyondspring Inc,BYSI,2017-03-09,2017.0,2014.0,3.0,,0,,1,3.0,1,1.0,False,6,6.0,1,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001370053,AnaptysBio Inc,ANAB,2017-01-26,2017.0,2005.0,12.0,40.8,2,3.4,0,,0,,False,13,inf,13,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001651625,AC Immune SA,ACIU,2016-09-23,2016.0,2003.0,13.0,,0,,1,1.0,1,1.0,False,37,37.0,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001377121,Protagonist Therapeutics Inc,PTGX,2016-08-11,2016.0,2006.0,10.0,57.5,2,5.75,0,,0,,False,7,inf,7,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001659617,Moleculin Biotech Inc,MBRX,2016-06-02,2016.0,2015.0,1.0,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001626971,Corvus Pharmaceuticals Inc,CRVS,2016-03-23,2016.0,2014.0,2.0,74.8,2,37.4,1,1.0,2,0.5,False,4,4.0,4,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001650664,Editas Medicine Inc,EDIT,2016-02-03,2016.0,2013.0,3.0,138.1,2,46.03,0,,0,,False,3,inf,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001557746,Aclaris Therapeutics Inc,ACRS,2015-10-07,2015.0,2012.0,3.0,,0,,3,2.0,2,1.5,False,1,0.333,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001267565,Collegium Pharmaceutical Inc,COLL,2015-05-07,2015.0,2002.0,13.0,50.0,3,3.85,1,3.0,1,1.0,False,19,19.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001609809,Seres Therapeutics Inc,MCRB,2015-06-26,2015.0,2010.0,5.0,124.0,3,24.8,1,2.0,1,1.0,False,7,7.0,17,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001641489,vTv Therapeutics Inc,VTVT,2015-07-30,2015.0,1998.0,17.0,,0,,8,3.0,8,1.0,True,13,1.625,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001590877,Regenxbio Inc,RGNX,2015-09-17,2015.0,2008.0,7.0,5.9,2,0.84,0,,0,,False,1,inf,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001501989,CytomX Therapeutics Inc,CTMX,2015-10-08,2015.0,2008.0,7.0,70.0,3,10.0,0,,0,,False,25,inf,7,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001631574,WaVe Life Sciences Ltd,WVE,2015-11-11,2015.0,2012.0,3.0,265.2,1,88.4,0,,0,,False,6,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001640266,Voyager Therapeutics Inc,VYGR,2015-11-11,2015.0,2013.0,2.0,30.0,2,15.0,0,,0,,False,2,inf,82,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001579428,Axsome Therapeutics Inc,AXSM,2015-11-19,2015.0,2012.0,3.0,33.8,1,11.27,1,3.0,2,0.5,False,0,0.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001535955,Lipocine Inc.,,2013-09-27,,,,,0,,0,,0,,False,18,inf,2,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001540159,"Stellar Biotechnologies, Inc.",,2016-09-29,,,,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001683743,LBC Bioscience Inc.,,2017-10-02,,,,,0,,0,,0,,False,0,,86,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001643848,Patheon N.V.,,2016-07-22,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001584137,"Oncolix, Inc.",,2017-11-30,,,,,0,,1,1.0,3,0.33,False,5,5.0,0,stalled_filing,acquisition,,2834.0,Pharmaceutical Preparations
+0001588172,Aptalis Holdings Inc.,,2013-12-26,,,,,0,,0,,0,,False,11,inf,1,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001661460,"Poseida Therapeutics, Inc.",,2020-07-10,,,,33.3,2,,3,2.0,18,0.17,True,11,3.667,8,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001509261,"AntriaBio, Inc.",,2011-08-15,,,,,0,,0,,0,,False,1,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001544238,"CARDAX, INC.",,2014-12-02,,,,,0,,0,,0,,False,14,inf,1,stalled_filing,acquisition,,2834.0,Pharmaceutical Preparations
+0001513856,"Neurotrope, Inc.",,2015-02-12,,,,,0,,1,2.0,1,1.0,True,0,0.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001537663,"Health-Right Discoveries, Inc.",,2015-09-09,,,,,0,,0,,0,,False,0,,0,stalled_filing,acquisition,,2834.0,Pharmaceutical Preparations
+0001739426,Osmotica Pharmaceuticals plc,,2018-10-19,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001660719,Aralez Pharmaceuticals Inc.,,2015-12-28,,,,12.0,1,,0,,0,,False,1,inf,0,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001557421,"Ignyta, Inc.",,2013-01-09,,,,,0,,0,,0,,False,0,,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001685462,"Shuttle Pharmaceuticals, Inc.",,2016-12-09,,,,,0,,0,,0,,False,0,,29,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001559149,"PAR PHARMACEUTICAL HOLDINGS, INC.",,2015-03-13,,,,,0,,35,3.0,12,2.92,True,87,2.486,955,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001595893,"Turning Point Therapeutics, Inc.",,2019-04-18,,,,295.0,2,,1,2.0,2,0.5,False,2,2.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001659323,Iterum Therapeutics Ltd,,2018-05-25,,,,,0,,1,4.0,2,0.5,False,0,0.0,2,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001714798,Prevail Therapeutics Inc.,,2019-06-20,,,,125.0,2,,0,,0,,False,0,,24,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001633070,Axcella Health Inc.,,2019-05-09,,,,70.3,5,,2,-1.0,2,1.0,False,15,7.5,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001621443,"Zynerba Pharmaceuticals, Inc.",,2015-08-05,,,,,0,,0,,0,,False,3,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001717452,"Odonate Therapeutics, LLC",,2017-12-08,,,,,0,,0,,0,,False,1,inf,0,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001656328,"Sienna Biopharmaceuticals, Inc.",,2017-07-27,,,,40.5,1,,0,,0,,False,13,inf,0,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001650648,4D Molecular Therapeutics Inc,,2020-12-14,,,,90.0,1,,4,2.0,3,1.33,True,1,0.25,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001532346,"Atreca, Inc.",,2019-06-20,,,,160.0,2,,0,,0,,False,6,inf,19,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001651308,"BeiGene, Ltd.",,2020-07-13,,,,,0,,32,3.0,40,0.8,False,29,0.906,79,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001566373,"Spring Bank Pharmaceuticals, Inc.",,2016-05-06,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001657598,"Adgero Biopharmaceuticals Holdings, Inc.",,2017-02-14,,,,,0,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001533040,Phio Pharmaceuticals Corp.,,2012-04-30,,,,28.2,1,,0,,0,,False,0,,1,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001537917,"TYME TECHNOLOGIES, INC.",,2012-12-31,,,,,0,,0,,0,,False,0,,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001773427,"SpringWorks Therapeutics, Inc.",,2019-09-13,,,,139.7,1,,1,3.0,2,0.5,False,0,0.0,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001740547,Urovant Sciences Ltd.,,2018-09-27,,,,,0,,5,3.0,2,2.5,True,0,0.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001649989,"Outlook Therapeutics, Inc.",,2016-05-13,,,,21.7,1,,0,,0,,False,2,inf,2096,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001641908,"SANCILIO PHARMACEUTICALS COMPANY, INC.",,2015-08-31,,,,20.0,2,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001582554,"Matinas BioPharma Holdings, Inc.",,2014-02-13,,,,13.6,1,,0,,0,,False,2,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001772028,Scopus Biopharma Inc.,,2022-01-20,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001589150,Regen BioPharma Inc,,2014-03-19,,,,,0,,0,,0,,False,1,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001541157,Celsus Therapeutics Plc.,,2013-02-06,,,,,0,,0,,0,,False,0,,2,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001739174,BiomX Inc.,,2018-12-14,,,,,0,,0,,0,,False,0,,0,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001684144,Zomedica Pharmaceuticals Corp.,,2017-11-21,,,,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001600132,"Bellerophon Therapeutics, Inc.",,2015-02-13,,,,,0,,0,,0,,False,0,,2,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001557142,"Kadmon Holdings, Inc.",,2016-07-27,,,,,0,,15,4.0,16,0.94,True,11,0.733,23,stalled_filing,acquisition,,2834.0,Pharmaceutical Preparations
+0001718644,"Zander Therapeutics, Inc",,2018-05-30,,,,,0,,0,,0,,False,0,,103,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001648419,Aralez Pharmaceuticals Ltd,,2015-11-06,,,,,0,,0,,0,,False,1,inf,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001723128,"Amneal Pharmaceuticals, Inc.",,2018-02-12,,,,,0,,10,3.0,14,0.71,False,10,1.0,16,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001516551,"Nemus Bioscience, Inc.",,2013-06-13,,,,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001553643,"RELMADA THERAPEUTICS, INC.",,2013-05-06,,,,,0,,0,,0,,False,4,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001515740,PREMIER BIOMEDICAL INC,,2011-12-19,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,likely_failure_delisted,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001569340,"Cell Source, Inc.",,2013-09-18,,,,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001509745,"LEAP THERAPEUTICS, INC.",,2016-11-23,,,,,0,,6,1.0,13,0.46,False,0,0.0,15,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001618835,"Evofem Biosciences, Inc.",,2014-11-20,,,,13.6,3,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001580149,"NANOANTIBIOTICS, INC.",,2017-04-03,,,,,0,,0,,0,,False,0,,0,actively_filing,failure,program_discontinued,2834.0,Pharmaceutical Preparations
+0001682639,"EYENOVIA, INC.",,2018-01-25,,,,6.8,2,,1,2.0,1,1.0,False,8,8.0,1,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001615999,Kannalife Inc,,2014-08-21,,,,,0,,0,,0,,False,0,,0,stalled_filing,acquisition,,2834.0,Pharmaceutical Preparations
+0001626199,"ALPINE IMMUNE SCIENCES, INC.",,2015-06-17,,,,8.0,1,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001561551,"Enumeral Biomedical Holdings, Inc.",,2014-11-12,,,,,0,,0,,0,,False,0,,0,stalled_filing,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001517681,"Propanc Biopharma, Inc.",,2011-12-16,,,,,0,,0,,0,,False,0,,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001703647,"Frequency Therapeutics, Inc.",,2019-10-04,,,,372.0,3,,2,2.0,2,1.0,False,10,5.0,435,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001722964,"Y-mAbs Therapeutics, Inc.",,2018-09-24,,,,,0,,4,2.0,6,0.67,True,0,0.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001544116,"Durata Therapeutics, Inc.",,2012-07-20,,,,55.0,1,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001693664,"ARMO BioSciences, Inc.",,2018-01-29,,,,30.0,1,,0,,0,,False,9,inf,10,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001733413,"TFF Pharmaceuticals, Inc.",,2019-10-25,,,,26.7,1,,0,,0,,False,0,,0,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001510487,Principia Biopharma Inc.,,2018-09-17,,,,105.5,2,,3,2.0,4,0.75,True,29,9.667,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001688765,"Braeburn Pharmaceuticals, Inc.",,2016-12-30,,,,,0,,8,3.0,7,1.14,False,0,0.0,6,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001594864,"Juno Therapeutics, Inc.",,2014-12-19,,,,133.7,2,,0,,0,,False,1,inf,779,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001586105,Egalet Corp,,2014-02-07,,,,,0,,17,3.0,10,1.7,True,14,0.824,1,stalled_filing,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001552899,"AUDEO ONCOLOGY, INC.",,2012-07-06,,,,,0,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001739614,"Inhibrx, Inc.",,2020-08-19,,,,40.3,1,,4,2.0,18,0.22,True,19,4.75,4,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001539029,"Clearside Biomedical, Inc.",,2016-06-02,,,,50.0,3,,4,3.0,10,0.4,False,6,1.5,0,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001635886,"BioCardia, Inc.",,2015-06-16,,,,7.3,1,,1,1.0,2,0.5,False,43,43.0,4,stalled_filing,unclear,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001560241,"G1 Therapeutics, Inc.",,2017-05-17,,,,50.0,3,,6,2.0,7,0.86,True,17,2.833,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001604950,scPharmaceuticals Inc.,,2017-11-17,,,,53.2,2,,5,3.0,2,2.5,False,1,0.2,3,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001615219,"Flex Pharma, Inc.",,2015-01-29,,,,82.0,2,,0,,0,,False,1,inf,114,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001613490,MultiVir Inc.,,2015-03-30,,,,,0,,0,,0,,False,1,inf,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0000921299,FIBROGEN INC,,2014-11-19,,,,,0,,0,,0,,False,0,,41,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001564824,Allakos Inc.,,2018-07-19,,,,100.1,2,,7,2.0,10,0.7,False,4,0.571,6,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001597553,"Sage Therapeutics, Inc.",,2014-07-18,,,,53.0,1,,0,,0,,False,5,inf,554,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001694665,"Evelo Biosciences, Inc.",,2018-05-09,,,,81.5,3,,0,,0,,False,3,inf,11,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001622229,"Unum Therapeutics, Inc.",,2018-03-29,,,,64.8,2,,0,,0,,False,1,inf,33,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001652923,"AveXis, Inc.",,2016-02-11,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001588972,"Recro Pharma, Inc.",,2014-03-07,,,,,0,,0,,0,,False,3,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001670356,Abpro Corp,,2018-04-11,,,,11.9,1,,0,,0,,False,0,,0,deregistered_or_delisted,unclear,,2834.0,Pharmaceutical Preparations
+0001629137,"Global Blood Therapeutics, Inc.",,2015-08-12,,,,,0,,2,1.0,3,0.67,False,15,7.5,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001596126,"Dance Biopharm, Inc.",,2014-04-09,,,,6.6,1,,2,2.0,2,1.0,False,3,1.5,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001718108,"Surface Oncology, Inc.",,2018-04-20,,,,35.1,1,,1,1.0,2,0.5,False,4,4.0,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001592052,Centrexion Therapeutics Corp,,2018-10-19,,,,66.1,2,,12,3.0,9,1.33,True,12,1.0,5,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001505512,Regulus Therapeutics Inc.,,2012-10-05,,,,,0,,0,,0,,False,19,inf,10,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001662524,"AKCEA THERAPEUTICS, INC.",,2017-07-14,,,,100.0,1,,3,3.0,6,0.5,True,0,0.0,10,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001510580,"Kite Pharma, Inc.",,2014-06-23,,,,350.0,1,,0,,0,,False,0,,39,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001630970,"Accelerated Pharma, Inc.",,2016-10-11,,,,,0,,0,,0,,False,0,,213,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001513818,"Versartis, Inc.",,2014-03-21,,,,55.0,4,,3,3.0,2,1.5,True,0,0.0,1,deregistered_or_delisted,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001509190,"ARATANA THERAPEUTICS, INC.",,2013-06-27,,,,9.3,3,,0,,0,,False,2,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001731831,"Eidos Therapeutics, Inc.",,2018-06-21,,,,,0,,2,2.0,3,0.67,False,1,0.5,3,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001590930,"MICROLIN BIO, INC.",,2014-01-10,,,,,0,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001552451,MyoKardia Inc,,2015-10-29,,,,,0,,3,1.0,2,1.5,False,3,1.0,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001571498,"Epizyme, Inc.",,2013-05-31,,,,25.0,2,,1,1.0,4,0.25,False,11,11.0,20,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001711786,"Hoth Therapeutics, Inc.",,2019-02-15,,,,1.3,1,,0,,0,,False,0,,35,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001750019,TCR2 THERAPEUTICS INC.,,2019-02-15,,,,125.0,2,,0,,0,,False,3,inf,9,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001522602,"CohBar, Inc.",,2014-12-19,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001534120,Cerecor Inc.,,2016-12-05,,,,,0,,0,,0,,False,4,inf,2,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001695357,"Provention Bio, Inc.",,2018-07-03,,,,,0,,2,2.0,2,1.0,False,0,0.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001595585,"Tricida, Inc.",,2018-06-29,,,,57.5,3,,3,3.0,2,1.5,False,5,1.667,3,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001594337,"Corium International, Inc.",,2014-04-03,,,,,0,,0,,0,,False,51,inf,2,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001582636,"ALZHEON, INC.",,2018-03-16,,,,30.0,2,,2,1.0,1,2.0,False,3,1.5,9,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001613723,"S1 Biopharma, Inc.",,2014-10-01,,,,,0,,1,2.0,2,0.5,False,1,1.0,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001587221,Zosano Pharma Corp,,2015-01-27,,,,,0,,2,2.0,2,1.0,False,0,0.0,6,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001527599,"Mirna Therapeutics, Inc.",,2015-10-01,,,,41.8,3,,1,1.0,7,0.14,True,8,8.0,82,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001581720,"Loxo Oncology, Inc.",,2014-08-01,,,,94.0,1,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001574235,"Ruthigen, Inc.",,2014-03-21,,,,,0,,0,,0,,False,0,,0,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001525145,"Peloton Therapeutics, Inc.",,2019-04-26,,,,150.3,2,,0,,0,,False,13,inf,38,stalled_filing,unclear,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001662774,"Cortexyme, Inc.",,2019-05-09,,,,99.5,2,,3,3.0,2,1.5,False,6,2.0,3,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001693415,"Translate Bio, Inc.",,2018-06-29,,,,52.8,2,,0,,0,,False,54,inf,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001029125,"Sun BioPharma, Inc.",,2020-08-31,,,,,0,,0,,0,,False,0,,0,actively_filing,failure,zombie,2834.0,Pharmaceutical Preparations
+0001602413,"Vyrix Pharmaceuticals, Inc.",,2014-04-16,,,,,0,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001609727,"Synthorx, Inc.",,2018-12-07,,,,116.6,2,,0,,0,,False,0,,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001679363,"Morphic Holding, Inc.",,2019-06-27,,,,80.0,2,,14,2.0,3,4.67,True,5,0.357,8,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001724344,Entasis Therapeutics Holdings Inc.,,2018-09-26,,,,,0,,6,2.0,5,1.2,False,10,1.667,19,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001681087,"AVROBIO, Inc.",,2018-06-21,,,,60.5,2,,1,2.0,1,1.0,True,0,0.0,3,actively_filing,failure,reverse_merger,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001636050,Axovant Sciences Ltd.,,2015-06-11,,,,,0,,1,2.0,1,1.0,True,1,1.0,0,stalled_filing,failure,dissolution,2834.0,Pharmaceutical Preparations
+0001509697,"Civitas Therapeutics, Inc.",,2014-08-26,,,,55.3,3,,0,,0,,False,22,inf,9,stalled_filing,unclear,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001760542,HOOKIPA Pharma Inc.,,2019-04-19,,,,210.0,4,,0,,0,,False,0,,9,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001667633,"Forty Seven, Inc.",,2018-06-28,,,,75.0,2,,0,,0,,False,2,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001689066,Sunset Island Group,,2016-11-16,,,,,0,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001638287,Gemphire Therapeutics Inc.,,2016-08-08,,,,1.5,1,,0,,0,,False,2,inf,2,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001664106,"LogicBio Therapeutics, Inc.",,2018-10-22,,,,28.7,2,,0,,0,,False,0,,1,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001601485,Angion Biomedica Corp.,,2021-02-05,,,,,0,,7,3.0,6,1.17,True,21,3.0,0,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001785173,"89bio, Inc.",,2019-11-12,,,,16.0,1,,1,2.0,1,1.0,False,6,6.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001609351,"Spark Therapeutics, Inc.",,2015-01-30,,,,77.0,2,,6,3.0,5,1.2,True,0,0.0,176,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001501756,"Avalanche Biotechnologies, Inc.",,2014-07-31,,,,55.0,2,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001753483,Dermavant Sciences Ltd,,2019-05-24,,,,,0,,3,2.0,1,3.0,False,6,2.0,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001563855,SOPHIRIS BIO INC.,,2013-08-16,,,,,0,,5,2.0,4,1.25,True,2,0.4,0,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001745999,Beam Therapeutics Inc.,,2020-02-07,,,,179.7,2,,0,,0,,False,0,,2584,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001538928,Viamet Pharmaceuticals Holdings LLC,,2014-07-01,,,,15.0,1,,0,,0,,False,19,inf,4,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001614067,"Aridis Pharmaceuticals, Inc.",,2018-08-15,,,,25.0,1,,3,2.0,3,1.0,False,9,3.0,10,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001656634,"Gritstone Oncology, Inc.",,2018-10-01,,,,96.0,3,,0,,0,,False,3,inf,0,deregistered_or_delisted,bankruptcy,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001734517,"Viela Bio, Inc.",,2019-10-04,,,,387.3,2,,0,,0,,False,3,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001636282,"Aeglea BioTherapeutics, Inc.",,2016-04-07,,,,70.0,1,,1,2.0,1,1.0,False,0,0.0,2,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001674365,Aptinyx Inc.,,2018-06-21,,,,70.0,2,,3,2.0,3,1.0,False,20,6.667,13,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001659352,"Codiak BioSciences, Inc.",,2020-10-14,,,,76.5,3,,1,2.0,1,1.0,False,7,7.0,22,deregistered_or_delisted,bankruptcy,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001702956,"Cirius Therapeutics, Inc.",,2019-01-11,,,,98.7,1,,1,2.0,3,0.33,False,0,0.0,4,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001654151,"Deciphera Pharmaceuticals, Inc.",,2017-09-28,,,,,0,,4,2.0,13,0.31,True,31,7.75,11,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001640455,"Jounce Therapeutics, Inc.",,2017-01-27,,,,225.0,2,,1,2.0,1,1.0,False,3,3.0,7,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001513157,"Lumena Pharmaceuticals, Inc.",,2014-04-02,,,,45.5,2,,0,,0,,False,0,,1,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001673772,"RAPT Therapeutics, Inc.",,2019-11-01,,,,179.6,2,,3,2.0,3,1.0,True,5,1.667,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001709401,"Rubius Therapeutics, Inc.",,2018-07-18,,,,120.5,3,,0,,0,,False,9,inf,7,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001597264,Blueprint Medicines Corp,,2015-04-30,,,,,0,,0,,0,,False,9,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001685071,"Dova Pharmaceuticals, Inc.",,2017-06-30,,,,29.0,1,,0,,0,,False,0,,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001638851,"Inpellis, Inc.",,2015-11-12,,,,25.0,1,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001619087,SteadyMed Ltd.,,2015-03-20,,,,,0,,0,,0,,False,9,inf,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001557883,"Dermira, Inc.",,2014-10-03,,,,51.0,3,,6,2.0,5,1.2,False,7,1.167,2,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001610618,"Cidara Therapeutics, Inc.",,2015-04-15,,,,345.2,2,,0,,0,,False,2,inf,4,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001720580,"resTORbio, Inc.",,2018-01-29,,,,40.0,2,,1,2.0,1,1.0,False,0,0.0,1,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001631650,"Aimmune Therapeutics, Inc.",,2015-08-06,,,,80.0,2,,2,2.0,1,2.0,False,2,1.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001708493,"Harpoon Therapeutics, Inc.",,2019-02-08,,,,140.0,3,,0,,0,,False,10,inf,3,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001618561,Nexvet Biopharma plc,,2015-02-05,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001694187,"Neon Therapeutics, Inc.",,2018-06-28,,,,111.1,2,,0,,0,,False,0,,64,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001679082,Myovant Sciences Ltd.,,2016-10-27,,,,,0,,1,1.0,1,1.0,False,0,0.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001692830,"Satsuma Pharmaceuticals, Inc.",,2019-09-13,,,,61.7,2,,2,3.0,3,0.67,False,0,0.0,24,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001293971,"bluebird bio, Inc.",,2013-06-24,,,,,0,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001566044,"Menlo Therapeutics, Inc.",,2018-01-26,,,,109.3,3,,0,,0,,False,8,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001720725,"Oyster Point Pharma, Inc.",,2019-10-31,,,,93.0,2,,8,3.0,4,2.0,False,9,1.125,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001751299,"Kaleido Biosciences, Inc.",,2019-03-01,,,,100.3,3,,6,-1.0,3,2.0,False,5,0.833,5,deregistered_or_delisted,unclear,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001697532,Applied Therapeutics Inc.,,2019-05-14,,,,3.1,2,,0,,0,,False,0,,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001592288,"Dimension Therapeutics, Inc.",,2015-10-22,,,,65.0,2,,0,,0,,False,0,,73,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001661998,"Homology Medicines, Inc.",,2018-03-29,,,,20.5,2,,0,,0,,False,0,,0,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001744659,"Akero Therapeutics, Inc.",,2019-06-20,,,,85.0,2,,1,2.0,1,1.0,False,0,0.0,3,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001624658,"Allena Pharmaceuticals, Inc.",,2017-11-02,,,,52.8,3,,4,2.0,5,0.8,False,5,1.25,14,deregistered_or_delisted,bankruptcy,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001628738,"Audentes Therapeutics, Inc.",,2016-07-20,,,,65.0,3,,0,,0,,False,0,,3,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001662907,"IASO BioMed, Inc.",,2017-04-24,,,,,0,,0,,0,,False,0,,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001516479,"Insys Therapeutics, Inc.",,2013-05-02,,,,,0,,25,3.0,20,1.25,True,5,0.2,3,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001771917,"Karuna Therapeutics, Inc.",,2019-06-28,,,,91.0,2,,0,,0,,False,0,,80,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001690585,"Magenta Therapeutics, Inc.",,2018-06-21,,,,71.5,3,,1,2.0,1,1.0,False,5,5.0,242,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001467154,"Novan, Inc.",,2016-09-22,,,,,0,,15,3.0,5,3.0,False,20,1.333,2,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001472091,PDS Biotechnology Corp,,2015-10-02,,,,83.4,1,,1,1.0,1,1.0,False,4,4.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001497504,"Dipexium Pharmaceuticals, LLC",,2014-03-13,,,,,0,,0,,0,,False,1,inf,0,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001461993,"CEMPRA, INC.",,2012-02-03,,,,,0,,0,,0,,False,10,inf,8,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001491576,"TESARO, Inc.",,2012-06-28,,,,174.9,2,,7,3.0,8,0.88,True,0,0.0,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001478121,Pfenex Inc.,,2014-07-24,,,,10.0,1,,1,2.0,1,1.0,False,19,19.0,5,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001478069,CONTRAFECT Corp,,2014-07-29,,,,1.2,1,,0,,0,,False,4,inf,3,stalled_filing,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001476963,"HEAT BIOLOGICS, INC.",,2013-07-24,,,,15.0,1,,1,2.0,1,1.0,True,0,0.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001496671,"Calithera Biosciences, Inc.",,2014-10-02,,,,238.2,3,,6,2.0,20,0.3,False,3,0.5,2,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001466301,"Clovis Oncology, Inc.",,2011-11-16,,,,65.6,2,,3,2.0,2,1.5,False,0,0.0,0,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001494650,"OptiNose, Inc.",,2017-10-13,,,,36.4,2,,9,3.0,8,1.12,False,68,7.556,14,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001479290,"Revance Therapeutics, Inc.",,2014-02-06,,,,74.9,1,,11,3.0,4,2.75,True,18,1.636,4,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001477598,"Omthera Pharmaceuticals, Inc.",,2013-04-12,,,,36.2,2,,0,,0,,False,2,inf,2,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001493566,"Otonomy, Inc.",,2014-08-13,,,,0.1,4,,5,3.0,3,1.67,False,24,4.8,6,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001501697,"Arsanis, Inc.",,2017-11-17,,,,42.9,4,,1,2.0,2,0.5,True,0,0.0,20,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001496323,"IGM Biosciences, Inc.",,2019-09-18,,,,269.0,2,,0,,0,,False,13,inf,772,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001485003,"Eleven Biotherapeutics, Inc.",,2014-02-06,,,,30.0,2,,4,3.0,4,1.0,False,1,0.25,11,deregistered_or_delisted,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001481512,"Ra Pharmaceuticals, Inc.",,2016-10-26,,,,24.1,2,,0,,0,,False,5,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001463361,"Unity Biotechnology, Inc.",,2018-05-04,,,,134.1,3,,1,-1.0,1,1.0,False,19,19.0,0,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001463729,"Receptos, Inc.",,2013-05-09,,,,61.5,2,,0,,0,,False,6,inf,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001477845,"Annovis Bio, Inc.",,2020-01-30,,,,0.57,1,,2,2.0,2,1.0,True,1,0.5,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001471002,"Cancer Prevention Pharmaceuticals, Inc.",,2015-12-23,,,,,0,,3,3.0,2,1.5,True,0,0.0,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001467652,"Neos Therapeutics, Inc.",,2015-07-24,,,,20.9,1,,1,3.0,1,1.0,False,12,12.0,9,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001459266,"ZS Pharma, Inc.",,2014-06-18,,,,55.0,3,,5,4.0,3,1.67,True,6,1.2,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001269021,PORTOLA PHARMACEUTICALS INC,,2013-05-22,,,,89.0,1,,14,3.0,10,1.4,True,56,4.0,104,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001401040,DiaMedica Therapeutics Inc.,,2018-12-10,,,,18.9,1,,3,2.0,3,1.0,False,0,0.0,11,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001442835,KOLLTAN PHARMACEUTICALS INC,,2014-09-12,,,,59.6,2,,0,,0,,False,2,inf,3,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001280600,ACCELERON PHARMA INC,,2013-09-19,,,,50.0,4,,0,,0,,False,63,inf,15,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001404281,"Novus Therapeutics, Inc.",,2014-09-18,,,,,0,,0,,0,,False,0,,38,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001348649,"CoLucid Pharmaceuticals, Inc.",,2015-05-06,,,,37.1,1,,0,,0,,False,4,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001274792,MERRIMACK PHARMACEUTICALS INC,,2012-03-29,,,,23.2,3,,18,3.0,27,0.67,False,18,1.0,77,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001404644,"AQUINOX PHARMACEUTICALS, INC",,2014-03-07,,,,19.6,1,,2,2.0,3,0.67,False,8,4.0,2,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001305253,Celladon Corp,,2014-01-30,,,,49.8,1,,2,2.0,6,0.33,False,3,1.5,3,deregistered_or_delisted,bankruptcy,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001437786,Immune Design Corp.,,2014-07-24,,,,34.0,3,,0,,0,,False,8,inf,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001435049,"ADURO BIOTECH, INC.",,2015-04-15,,,,51.4,3,,3,2.0,3,1.0,False,21,7.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001311596,Regado Biosciences Inc,,2013-08-22,,,,15.0,5,,3,2.0,3,1.0,False,8,2.667,2,deregistered_or_delisted,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001445283,"PROTEOSTASIS THERAPEUTICS, INC.",,2016-02-12,,,,25.2,2,,0,,0,,False,9,inf,16,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001372514,EYEGATE PHARMACEUTICALS INC,,2015-02-13,,,,,0,,6,3.0,6,1.0,False,3,0.5,3,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001453687,SELECTA BIOSCIENCES INC,,2016-06-23,,,,40.0,2,,3,1.0,2,1.5,False,26,8.667,5,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001442836,"Mersana Therapeutics, Inc.",,2017-06-29,,,,,0,,3,1.0,6,0.5,False,20,6.667,4,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001169245,PhaseBio Pharmaceuticals Inc,,2018-10-19,,,,,0,,11,2.0,6,1.83,True,10,0.909,1,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001426375,"Visterra, Inc.",,2016-01-05,,,,33.7,2,,2,2.0,1,2.0,False,6,3.0,7,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001300699,"Athenex, Inc.",,2017-06-15,,,,,0,,11,3.0,10,1.1,False,6,0.545,3,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001429560,TREVENA INC,,2014-01-31,,,,60.0,2,,5,2.0,5,1.0,False,6,1.2,15,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001454189,"Auspex Pharmaceuticals, Inc.",,2014-02-05,,,,25.0,5,,1,3.0,1,1.0,False,51,51.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001164994,"Rib-X Pharmaceuticals, Inc.",,2011-11-25,,,,,0,,0,,0,,False,17,inf,16,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001454789,CATABASIS PHARMACEUTICALS INC,,2015-06-25,,,,32.4,2,,8,2.0,13,0.62,False,26,3.25,1,deregistered_or_delisted,failure,rebrand_pivot,2834.0,Pharmaceutical Preparations
+0001400482,Acucela Inc,,2014-02-03,,,,28.2,1,,0,,0,,False,21,inf,8,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001253689,GLYCOMIMETICS INC,,2014-01-10,,,,,0,,3,2.0,4,0.75,False,22,7.333,4,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001348911,"Carbylan Therapeutics, Inc.",,2015-04-09,,,,6.0,1,,4,4.0,4,1.0,True,5,1.25,1,deregistered_or_delisted,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001399529,Dicerna Pharmaceuticals Inc,,2014-01-30,,,,60.0,2,,0,,0,,False,16,inf,3,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001434647,"KEMPHARM, INC",,2015-04-16,,,,,0,,0,,0,,False,17,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001361248,TETRALOGIC PHARMACEUTICALS CORP,,2013-12-12,,,,50.0,2,,6,2.0,7,0.86,False,15,2.5,4,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001245104,GLOBEIMMUNE INC,,2014-07-02,,,,18.0,3,,4,2.0,4,1.0,False,35,8.75,8,deregistered_or_delisted,likely_failure_delisted,,2834.0,Pharmaceutical Preparations
+0001401914,Cerulean Pharma Inc.,,2014-04-14,,,,15.0,2,,0,,0,,False,22,inf,5,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001264587,STEMLINE THERAPEUTICS INC,,2013-01-29,,,,0.8,1,,0,,0,,False,1,inf,3,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001386858,HYPERION THERAPEUTICS INC,,2012-07-27,,,,60.4,3,,0,,0,,False,2,inf,19,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001385228,"BIND Therapeutics, Inc",,2013-09-20,,,,40.6,2,,3,2.0,6,0.5,False,0,0.0,8,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001429386,"PHASERX, INC.",,2016-05-18,,,,3.2,1,,0,,0,,False,11,inf,1,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001175505,FIVE PRIME THERAPEUTICS INC,,2013-09-18,,,,35.0,1,,2,2.0,2,1.0,True,27,13.5,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001383701,Conatus Pharmaceuticals Inc,,2013-07-25,,,,32.8,2,,7,2.0,8,0.88,True,0,0.0,1,deregistered_or_delisted,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001359931,PROTEON THERAPEUTICS INC,,2014-10-22,,,,49.7,2,,5,3.0,2,2.5,False,12,2.4,4,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001374261,Virobay Inc,,2014-09-10,,,,6.0,1,,4,1.0,2,2.0,False,22,5.5,2,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001428369,THAR PHARMACEUTICALS INC,,2016-08-19,,,,,0,,1,1.0,1,1.0,False,16,16.0,10,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001339970,aTYR PHARMA INC,,2015-05-07,,,,76.3,1,,1,2.0,1,1.0,False,62,62.0,5,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001326110,"Conkwest, Inc.",,2015-07-29,,,,402.5,1,,0,,0,,False,1,inf,3,actively_filing,,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001280776,VITAL THERAPIES INC,,2014-04-17,,,,27.9,4,,7,3.0,7,1.0,True,0,0.0,0,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001281895,INOTEK PHARMACEUTICALS CORP,,2015-02-19,,,,,0,,5,2.0,8,0.62,True,39,7.8,79,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001436304,KYTHERA BIOPHARMACEUTICALS INC,,2012-10-11,,,,37.4,2,,17,3.0,5,3.4,False,11,0.647,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001367920,"CONCERT PHARMACEUTICALS, INC.",,2014-02-13,,,,30.0,3,,4,2.0,5,0.8,False,89,22.25,10,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001337553,AERIE PHARMACEUTICALS INC,,2013-10-28,,,,25.0,1,,11,2.0,6,1.83,False,17,1.545,2,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001409690,"Tobira Therapeutics, Inc.",,2014-06-23,,,,30.0,2,,4,2.0,3,1.33,False,5,1.25,3,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001420565,AILERON THERAPEUTICS INC,,2017-06-29,,,,32.0,2,,3,2.0,6,0.5,False,39,13.0,7,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001419041,Tocagen Inc,,2017-04-13,,,,84.4,1,,7,3.0,20,0.35,True,10,1.429,19,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001457612,"GENOCEA BIOSCIENCES, INC.",,2014-02-05,,,,30.5,3,,2,2.0,2,1.0,False,9,4.5,4,deregistered_or_delisted,likely_failure_delisted,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001373707,TETRAPHASE PHARMACEUTICALS INC,,2013-03-20,,,,45.1,3,,3,2.0,3,1.0,False,8,2.667,9,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001264647,AMBRX INC,,2014-05-02,,,,,0,,1,2.0,1,1.0,False,82,82.0,8,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0000827871,"EAGLE PHARMACEUTICALS, INC.",,2014-02-13,,,,18.5,2,,1,1.0,1,1.0,False,0,0.0,240,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001338095,"NephroGenex, Inc.",,2014-02-12,,,,1.0,1,,1,2.0,1,1.0,False,2,2.0,0,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001426332,NGM BIOPHARMACEUTICALS INC,,2019-04-04,,,,105.9,1,,10,2.0,8,1.25,False,50,5.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001339469,"CHIASMA, INC",,2015-07-16,,,,,0,,1,3.0,1,1.0,False,6,6.0,5,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001157602,"Vitae Pharmaceuticals, Inc",,2014-09-24,,,,,0,,1,1.0,1,1.0,False,888,888.0,73,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001130598,"Onconova Therapeutics, Inc.",,2013-07-25,,,,,0,,0,,0,,False,17,inf,3,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001117480,CHIMERIX INC,,2013-04-11,,,,45.0,1,,0,,0,,False,12,inf,7,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001301501,Achaogen Inc,,2014-03-12,,,,25.1,1,,7,2.0,7,1.0,True,15,2.143,10,deregistered_or_delisted,bankruptcy,,2834.0,Pharmaceutical Preparations
+0001403708,Evoke Pharma Inc,,2013-09-25,,,,18.3,1,,1,2.0,5,0.2,False,1,1.0,2,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001037643,PARATEK PHARMACEUTICALS INC,,2012-09-27,,,,,0,,3,3.0,4,0.75,True,58,19.333,18,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001434418,CONSTELLATION PHARMACEUTICALS INC,,2018-07-19,,,,99.8,2,,6,2.0,19,0.32,False,59,9.833,155,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001261249,AGILE THERAPEUTICS INC,,2014-05-23,,,,150.2,2,,7,3.0,3,2.33,False,13,1.857,18,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001346830,"Cara Therapeutics, Inc.",,2014-02-03,,,,49.6,1,,3,2.0,2,1.5,False,22,7.333,281,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001410939,Ophthotech Corp.,,2013-09-25,,,,33.3,1,,7,3.0,4,1.75,True,4,0.571,1,deregistered_or_delisted,failure,rebrand_pivot,2834.0,Pharmaceutical Preparations
+0001416792,Relypsa Inc,,2013-11-15,,,,35.1,3,,5,3.0,6,0.83,True,25,5.0,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001390085,ANTERIOS INC,,2015-03-31,,,,5.9,1,,5,2.0,5,1.0,False,4,0.8,0,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001290149,ProNAi Therapeutics Inc,,2015-07-16,,,,,0,,0,,0,,False,7,inf,7,deregistered_or_delisted,failure,rebrand_pivot,2834.0,Pharmaceutical Preparations
+0001423824,ALDER BIOPHARMACEUTICALS INC,,2014-05-08,,,,43.9,2,,2,1.0,2,1.0,False,4,2.0,0,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001358403,"BELLICUM PHARMACEUTICALS, INC",,2014-12-18,,,,9.7,3,,5,2.0,20,0.25,True,4,0.8,7,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001267813,MARINUS PHARMACEUTICALS INC,,2014-08-01,,,,22.3,1,,8,3.0,8,1.0,True,10,1.25,32,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001302573,OncoMed Pharmaceuticals Inc,,2013-07-18,,,,6.0,1,,11,2.0,8,1.38,True,49,4.455,34,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001273636,APPLIED GENETIC TECHNOLOGIES CORP,,2014-03-27,,,,37.5,1,,0,,0,,False,4,inf,0,deregistered_or_delisted,acquisition,,2836.0,"Biological Products, (No Diagnostic Substances)"
+0001328143,Adamas Pharmaceuticals Inc,,2014-04-10,,,,1.5,1,,2,3.0,4,0.5,False,19,9.5,6,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001291520,PLX PHARMA INC.,,2015-10-05,,,,,0,,9,3.0,9,1.0,False,2,0.222,1,stalled_filing,unclear,,2834.0,Pharmaceutical Preparations
+0001419600,Flexion Therapeutics Inc,,2014-02-12,,,,20.0,2,,0,,0,,False,1,inf,1,deregistered_or_delisted,acquisition,,2834.0,Pharmaceutical Preparations
+0001374690,"ZAFGEN, INC.",,2014-06-19,,,,34.8,1,,6,2.0,5,1.2,False,30,5.0,4,actively_filing,failure,reverse_merger,2834.0,Pharmaceutical Preparations
+0001398733,Aquestive Therapeutics Inc,,2018-07-26,,,,,0,,6,3.0,4,1.5,True,6,1.0,1,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001297184,Amphastar Pharmaceuticals Inc,,2014-06-25,,,,,0,,16,3.0,6,2.67,True,0,0.0,1,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001070081,PTC Therapeutics Inc,,2013-06-25,,,,,0,,21,3.0,21,1.0,True,86,4.095,82,actively_filing,,,2834.0,Pharmaceutical Preparations
+0001488039,Atossa Genetics Inc,,2012-11-09,,,,,0,,0,,0,,False,2,inf,0,actively_filing,,,2834.0,Pharmaceutical Preparations

@@ -35,12 +35,40 @@ ENV/
 env.bak/
 venv.bak/
 
-# Project Specific
+# Raw data (large SEC filings)
 data/raw/
-data/processed/
+
+# Intermediates: keep them local, not in git
+# (financing candidates is 1GB+, executive names raw are intermediates)
+data/processed/financing_candidates.csv
+data/processed/executive_names_raw.csv
+data/processed/review_*.csv
+data/processed/business_summaries*.csv
+data/processed/s1_manifest.csv
+data/processed/name_divergence_check.csv
+data/processed/full_name_divergence_check.csv
+data/processed/divergence_priority.csv
+data/processed/change_of_control_check.csv
+data/processed/excluded_*.csv
+data/processed/roster_*.csv
+data/processed/unclear_for_review.csv
+data/processed/scope_violations_removed.csv
+data/processed/roster_by_date.csv
+
+# Final outputs: tracked in git
+!data/processed/*_master.csv
+!data/processed/*_predictions.csv
+!data/processed/*_features.csv
+!data/processed/watchlist_*.csv
+!data/processed/model_metadata.json
+!data/processed/outcome_triage.csv
+!data/processed/exit_reasons.csv
+!data/processed/final_roster.csv
+
+# BigQuery exports and large intermediates
 *.xlsx
-*.csv
-*.json
+data/processed/financing_high_confidence.csv
+data/processed/financing_medium_confidence.csv
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints
