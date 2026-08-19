@@ -1,0 +1,26 @@
+{
+  "best_model": "Random Forest",
+  "macro_f1": 0.5575,
+  "accuracy": 0.6133,
+  "n_companies": 375,
+  "features_used": [
+    "total_pre_ipo_capital_m",
+    "num_rounds_detected",
+    "years_to_ipo",
+    "pre_ipo_trial_count",
+    "pre_ipo_max_phase_rank",
+    "pre_ipo_conditions_targeted",
+    "pipeline_concentration",
+    "pre_ipo_had_terminated_or_withdrawn",
+    "pre_ipo_patent_count",
+    "ip_density",
+    "pubmed_pre_ipo_count",
+    "capital_efficiency_m",
+    "sic"
+  ],
+  "classes": [
+    "actively_filing",
+    "deregistered_or_delisted",
+    "stalled_filing"
+  ]
+}
